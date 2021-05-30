@@ -1,0 +1,8 @@
+*****The Simulation Details*****
+
+
+
+Maximum length in the Queue: 4 Passengers
+Average Time in the Queue: 22 Seconds
+Total passengers: 4
+Maximum Waiting time: 36 Seconds
