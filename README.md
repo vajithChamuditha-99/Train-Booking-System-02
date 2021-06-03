@@ -1,7 +1,7 @@
 # Train-Booking-System-02
 
-A train ticket booking system with GUI developed using java, javafx and mongodb.
-IDE         : Intellij
+A train ticket booking system with GUI developed using java, javafx and mongodb.<br/>
+IDE         : Intellij <br/>
 JDK version : 1.8 
 <br/>
 <h4>Major functionalities: </h4>
